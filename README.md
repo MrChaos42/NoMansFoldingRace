@@ -17,7 +17,7 @@ No Man's Folding Race is an open-source racing simulation game that combines ele
 
  * Built using LOVR game engine 
  * Written in LUA programming language 
- * Fully open-source under 
+ * Fully open-source under MIT License
 
 ## Getting Started 
 
