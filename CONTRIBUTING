@@ -1,0 +1,50 @@
+
+# Contributing to No Man 's Folding Race 
+We welcome contributions anyone who wants help improve No Man 's Folding Race . This guide will help you get started contributing project .
+
+## Code of Conduct 
+We follow [ Contributor Covenant ]( https : //www.contributor-covenant.org/version/2/0/code_of_conduct/ ) code conduct . Please read before contributing project .
+
+## Getting Started 
+
+1 . Fork repository ` git fork `  
+2 . Clone repository ` git clone `  
+3 . Install LOVR required dependencies  
+4 . Run ` lovr run ` test game  
+5 . Explore codebase find issue feature work 
+
+## Issues Bug Reports 
+If find issue bug , report our [issue tracker ]( insert link ) When reporting , provide detail possible , :
+ * Description issue bug  
+ * Steps reproduce  
+ * Relevant error messages logs  
+
+Please open new tickets clearly describing found problems / unexpected behavior
+
+
+When fixing existing ticket include reference number begin commit message so it can automatically linked related ticket after merge
+
+
+Use tags indicate type changes applied , some examples include :
+fix - indicates change solves existing problem / closes ticket related certain kind problem being addressed .
+enhancement - indicates addition improvement functionality without fixing something broken 
+
+
+If unsure what tag use ask developer familiar project which they think best describes update being applied
+
+
+
+Those tags then allow filtering different kinds updates occurring allow easily see what has changed between versions
+
+
+Use tags consistently across entire life cycle commits associated PR’s
+
+
+
+Do add personal opinions inside actual source control changes only objective descriptions actions taken during implementation process
+
+
+
+
+
+Let team know filing tickets future development ideas feedback via email twitter discord etc links those
