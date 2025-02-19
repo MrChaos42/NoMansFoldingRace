@@ -1,31 +1,81 @@
 # No Man's Folding Race
-A racing sim video game with elements of Life Sim, Racing Sim, RogueLike elements like Balatro , Automation elements like Factorio , AI assisted gameplay like TrackMania , vastness of No Man's Sky.
+**A revolutionary open-source racing sim** combining life simulation, rogue-like elements, automation, AI-assisted gameplay, and biomolecular procedural generation. Built with LOVR game engine using LUA.
 
-No Man's Folding Race is an open-source racing simulation game that combines elements of life simulation , racing simulation , roguelike gameplay , automation ,  and AI-assisted gameplay . Inspired by games like My Summer Car , Assetto Corsa , Balatro , Factorio , TrackMania ,  and No Man's Sky our game offers a unique gaming experience .
+![Gameplay Concept Banner](https://via.placeholder.com/800x200.png?text=Procedural+Racing+Ecosystem)
 
-## Features
+## Key Features
 
-* Open-world racing simulation with procedurally generated tracks and environments 
-* Life sim elements : manage your character 's daily life relationships career 
-* Racing sim elements : realistic physics-based racing with customizable cars tracks 
-* Roguelike elements : permadeath random events unpredictable gameplay 
-* Automation elements : design manage own factories production lines create custom car parts 
-* AI-assisted gameplay : use AI-powered tools optimize racing performance strategy 
-* Vast procedurally generated universe explore discover new planets tracks 
+### 🧬 Biomolecular Procedural Generation
+- **Protein folding-driven worldbuilding**:
+  - Planetary seeds from amino acid sequences
+  - Track topology via polypeptide chain mapping
+  - Vehicle blueprints from tertiary structures
+- **Evolutionary content system**:
+  - Fitness-based quality scoring
+  - Fold prediction discovery markets
+  - Quantum annealing simulation targets (Phase 4)
 
-## Technical Details 
+### 🏎 Core Gameplay Systems
+- Hybrid racing/life simulation:
+  - Realistic physics-based vehicle handling
+  - Character needs/relationship management
+  - Permadeath with rogue-like progression
+- **Molecular Exploration Toolkit**:
+  - Planetary protein scanning for resources
+  - Track segment unfolding mechanics
+  - Vehicle component refolding optimization
 
- * Built using LOVR game engine 
- * Written in LUA programming language 
- * Fully open-source under MIT License
+### 🌌 EVE-inspired Economic Simulation
+- **Pseudo-deterministic markets**:
+  - Protein folding pattern price algorithms
+  - Market "denaturation" crash events
+  - Enzymatic production chain mechanics
+- Player-driven economy:
+  - Manufacturing hub management
+  - Interstellar commodity futures
+  - Economic warfare systems
 
-## Getting Started 
+## Technical Architecture
 
-1 . Clone repository ` git clone `  
-2 . Install LOVR required dependencies  
-3 . Run ` lovr run `  
-4 . Explore codebase start contributing !
+### 🔧 Core Stack
+- **LOVR** game engine (v0.18.0+)
+- **LUA 5.4** scripting
+- **Custom biomolecular models**:
+  - Gō model approximations
+  - Rosetta-inspired fragment assembly
+  - Hydrogen bond network simulation
 
-## Contribution Guidelines 
+### 🧪 Procedural Systems
+- Deterministic seed generation with:
+  - Hydrophobic/polar residue distributions
+  - Tertiary structure energy minimization
+  - Kinetic transition networks
+- Real-time conformation visualization
+- FASTA-like notation for cross-platform sharing
 
-We welcome contributions ! Read [ CONTRIBUTING . md ] ( CONTRIBUTING . md ) guidelines contribute project .
+## Development Roadmap
+
+### Phase 1: Core Systems (Current)
+- Vehicle physics framework
+- Basic AI driving assistant
+- Modular customization system
+
+### Phase 2: Biomolecular Foundations
+- Amino sequence → 3D environment converter
+- Fold pattern visualization tools
+- NPC trader prototype algorithms
+
+### Phase 3: Economic Prototype
+- Local resource markets
+- Basic manufacturing chains
+- Market folding crash simulation
+
+### Phase 4: Full Integration
+- Player corporation support
+- Quantum annealing implementation
+- AlphaFold-style prediction systems
+
+### Requirements
+- LOVR 0.18.0+
+- Lua 5.4
+- OpenCL 1.2+ (for GPU acceleration)
