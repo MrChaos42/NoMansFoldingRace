@@ -1,7 +1,7 @@
 # No Man's Folding Race
 **A revolutionary open-source racing sim** combining life simulation, rogue-like elements, automation, AI-assisted gameplay, and biomolecular procedural generation. Built with LOVR game engine using LUA.
 
-![Gameplay Concept Banner](https://via.placeholder.com/800x200.png?text=Procedural+Racing+Ecosystem)
+![VeniceAI_oRvjd7w](https://github.com/user-attachments/assets/0de03ab8-b989-400c-ab61-5193d419c65f)
 
 ## Key Features
 
